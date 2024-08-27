@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://images.app.goo.gl/hD5CAsT2sdRkTUZo6" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Zaidh, a MERN Full Stack Developer, passionate about creating powerful and seamless web applications that connect users with technology.</div>  
   
 
@@ -77,9 +72,6 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
 <a href="https://github.com/Zaidh-AK4" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -88,6 +80,9 @@
 </a>
 <a href="https://www.behance.net/https://www.instagram.com/zyd_bin_ak/" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/zaidh-abdul-kather/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
